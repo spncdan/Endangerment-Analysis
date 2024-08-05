@@ -1,7 +1,7 @@
 // This a program aims to bring in contents from a data file and classify them in relation to zoo animals which may or may not need attention by a zoo.
 // Language: C++
 // The program will keep track of the total number of animals (whether they need attention or not)
-// If a given animal needs attention (determined by there beiong less than 10 at zoo AND considered endangered) then they will be added to the amountneedsattention variable.
+// If a given animal needs attention (determined by there being less than 10 at zoo AND considered endangered) then they will be added to the amountneedsattention variable.
 // Finally the name of the name, total animal count, and whether they need attention will be inputted after each loop within the file.
 // When the while loop ends and there is no more data to be read into the file, we will print the total number of animals and the total number of animals which need attention.
 
